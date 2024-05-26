@@ -1,2 +1,2 @@
 # FullStack-JavaScript---fullstackopen.com
-Curse FullStack in JavaScript - fullstackopen.com
+course FullStack in JavaScript - fullstackopen.com
